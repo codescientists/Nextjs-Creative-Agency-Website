@@ -1,4 +1,3 @@
-import Head from "next/head";
 import HomeSlider from "../components/HomeSlider";
 import About from "../components/About";
 import Services from "../components/Services";
